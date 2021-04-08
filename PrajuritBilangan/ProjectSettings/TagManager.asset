@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Musuh
+  - Peluru
+  - Peluru2
+  - Musuh2
+  - Getar
+  - PeluruMusuh
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Musuh
+  - PeluruMusuh
+  - UIFix
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: lantai
+    uniqueID: 4153621337
+    locked: 0
+  - name: kaki
+    uniqueID: 889552465
+    locked: 0
+  - name: player
+    uniqueID: 2251331503
+    locked: 0
+  - name: ui
+    uniqueID: 3314830229
+    locked: 0
+  - name: ui2
+    uniqueID: 2475142693
+    locked: 0
